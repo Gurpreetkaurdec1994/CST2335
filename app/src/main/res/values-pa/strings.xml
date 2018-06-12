@@ -3,4 +3,15 @@
     <string name="app_name">ਐਂਡੋਰਾਇਡ ਲੈਬਜ਼</string>
     <string name="hello_message">ਸਤਿ ਸ੍ਰੀ ਅਕਾਲ ਦੁਨਿਆ!</string>
     <string name="ButtonText">ਮੈਂ ਬਟਨ ਹਾਂ</string>
+    <string name="Login">ਲਾਗਿਨ</string>
+    <string name="login_name">ਲਾਗਇਨ ਨਾਮ</string>
+    <string name="Password">ਪਾਸਵਰਡ</string>
+    <string name="RadioButton">ਰੇਡੀਓਬਟਨ</string>
+    <string name="checbox">ਚੈਕਬੋਕਸ</string>
+    <string name="Switch">ਇਹ ਕੀ ਕਰਦਾ ਹੈ?</string>
+    <string name="switch_on">ਸਵਿੱਚ ਚਾਲੂ ਹੈ</string>
+    <string name="switch_off">ਸਵਿਚ ਬੰਦ ਹੈ</string>
+    <string name="dialog_message">ਤੁਹਾਨੂੰ ਪੂਰਾ ਵਿਸ਼ਵਾਸ ਹੈ?</string>
+    <string name="cancel">ਰੱਦ ਕਰੋ</string>
+    <string name="ok">ਠੀਕ ਹੈ</string>
 </resources>
